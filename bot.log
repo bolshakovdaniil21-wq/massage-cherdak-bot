@@ -1,0 +1,5 @@
+2026-04-07 22:04:07,909 [INFO] database: БД инициализирована (massage_cherdak.db)
+2026-04-07 22:04:07,913 [INFO] __main__: Бот запущен. Чердак — поехали!
+2026-04-07 22:04:07,913 [INFO] aiogram.dispatcher: Start polling
+2026-04-07 22:04:07,913 [INFO] __main__: Следующая сводка через 6952 сек (в 00:00)
+2026-04-07 22:04:08,738 [INFO] aiogram.dispatcher: Run polling for bot @relax_territory_bot id=8599368900 - 'Территория Массажа'
